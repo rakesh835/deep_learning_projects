@@ -3,7 +3,7 @@ asn1crypto==0.24.0
 astor==0.8.1
 backports.weakref==1.0.post1
 click==7.1.2
-cryptography==2.1.4
+cryptography==39.0.1
 enum34==1.1.10
 exif-delete==0.9.5
 Flask==1.1.2
